@@ -42,17 +42,6 @@ Budget Tracker is a personal finance management Android app that helps users tra
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Dashboard | Add Expense |
-|--------------|-----------|-------------|
-| *(Add your screenshot here)* | *(Add your screenshot here)* | *(Add your screenshot here)* |
-
-| Category Management | Future Planning | Bar Chart |
-|---------------------|-----------------|-----------|
-| *(Add your screenshot here)* | *(Add your screenshot here)* | *(Add your screenshot here)* |
-
----
 
 ## 🛠️ Technologies Used
 
